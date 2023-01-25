@@ -1,0 +1,19 @@
+version: "3.3"
+
+services: 
+  pyjuque-bot:
+    restart: always 
+    build: .
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
+    ipam: 
+      driver: default 
+
+
+
+
+

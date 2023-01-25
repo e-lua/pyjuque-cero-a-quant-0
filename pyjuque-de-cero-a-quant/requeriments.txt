@@ -1,0 +1,10 @@
+pandas==1.5.2
+numpy==1.24.1
+pandas-ta==0.3.14b
+scikit-learn==1.2.0
+ccxt==2.4.100
+yaspin==2.2.0
+SQLAlchemy==1.4.45
+python-dotenv==0.21.0
+
+
