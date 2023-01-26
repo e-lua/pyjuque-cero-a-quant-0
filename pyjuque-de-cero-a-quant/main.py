@@ -18,7 +18,7 @@ bot_config = {
 		},
 	},
 
-	'symbols' : ['GALA/USDT','SOL/USDT','DOT/USDT','GMT/USDT','ADA/USDT','DOGE/USDT','ETH/USDT','BTC/USDT','XRP/USDT','SHIB/USDT','MATIC/USDT','ATOM/USDT','MANA/USDT','XLM/USDT'],
+	'symbols' : ['SOL/USDT','ADA/USDT','ETH/USDT'],
 
 	'starting_balance' : 400,
 
